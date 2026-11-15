@@ -19,3 +19,13 @@ Screenshots or a PDF report will be added.
 ## Ethical Considerations
 Wireless security testing must be performed only on
 networks owned by the tester or with explicit authorization.
+
+## Practical Evidence
+
+This practical documents wireless packet analysis using Wireshark
+and password auditing with Aircrack-ng in a controlled lab.
+
+The report includes screenshots of the captured packets
+and password-auditing results.
+
+📄 [View My Wi-Fi Password Auditing Practical Report](WiFi%20Password%20Auditing.pdf)
