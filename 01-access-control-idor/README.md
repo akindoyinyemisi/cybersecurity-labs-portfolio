@@ -40,3 +40,9 @@ Sanitized screenshots from the practical will be added.
 
 ## Ethical Considerations
 This assessment was performed in an intentionally vulnerable educational environment.
+
+## 📸 Practical Evidence
+
+The complete practical report, including screenshots and findings, is available below.
+
+📄 [View My IDOR Practical Report](IDOR%20PRATICAL.pdf)
