@@ -40,3 +40,10 @@ The Python source code and supporting practical evidence will be added to this r
 ## Ethical Considerations
 
 This project is intended for educational purposes and secure software development.
+
+
+## Python Source Code
+
+This project demonstrates secure database queries, input validation, and security logging using Python and MySQL.
+
+📄 [View My Secure Python Implementation](secure_database.py)
